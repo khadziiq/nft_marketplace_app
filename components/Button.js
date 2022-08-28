@@ -46,7 +46,7 @@ export const RectButton = ({ minWidth, fontSize, handlePress, ...props }) => {
           textAlign: "center",
         }}
       >
-        Place a bId
+        Place a bid
       </Text>
     </TouchableOpacity>
   );
